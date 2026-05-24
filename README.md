@@ -1,0 +1,49 @@
+<div align="center">
+
+# ASTRAX 🚀
+
+**La plataforma donde el deporte y las apuestas se encuentran.**
+
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-astraxproject.github.io-0a0a1a?style=flat-square)](https://astraxproject.github.io/astrax-project)
+
+---
+
+## ¿Qué es Astrax?
+
+Astrax es una plataforma para fanáticos del deporte y los eSports. Un espacio donde podés seguir tus deportes favoritos, conectarte con otros usuarios y personalizar tu experiencia según tus intereses.
+
+---
+
+## Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+---
+
+## Equipo
+
+| Integrante | Rol | GitHub |
+|--------------------|--------------------------|-----------------------------------------------------|
+| Rodriguez Santiago | Backend e implementación | [Ver perfil](https://github.com/Smokyy14)           |
+| Abreu Lucia        | Diseñadora web           | [Ver perfil](https://github.com/luciabreu627)       |
+| Martinez Facundo   | Rol                      | [Ver perfil](https://github.com/facundomartinez457) |
+| Delgado Omar       | Diseñador grafico        | [Ver perfil](https://github.com/usuario)            |
+
+---
+
+## Contacto
+
+[Astrax](mailto:astraxsupport@gmail.com)
+
+[Santiago Rodriguez](mailto:contact.smokyy@gmail.com)
+
+
+---
+
+<sub>© 2026 Astrax — Todos los derechos reservados.</sub>
+</div>
