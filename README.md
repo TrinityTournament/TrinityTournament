@@ -31,8 +31,7 @@ Astrax es una plataforma para fanáticos del deporte y los eSports. Un espacio d
 |--------------------|--------------------------|-----------------------------------------------------|
 | Rodriguez Santiago | Backend e implementación | [Ver perfil](https://github.com/Smokyy14)           |
 | Abreu Lucia        | Diseñadora web           | [Ver perfil](https://github.com/luciabreu627)       |
-| Martinez Facundo   | Rol                      | [Ver perfil](https://github.com/facundomartinez457) |
-| Delgado Omar       | Diseñador grafico        | [Ver perfil](https://github.com/usuario)            |
+| Martinez Facundo   | Inteligencia             | [Ver perfil](https://github.com/facundomartinez457) |
 
 ---
 
