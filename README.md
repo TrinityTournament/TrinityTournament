@@ -1,16 +1,16 @@
 <div align="center">
 
-# ASTRAX 🚀
+# TRINITY 🚀
 
 **La plataforma donde el deporte y las apuestas se encuentran.**
 
-[![Sitio Web](https://img.shields.io/badge/Sitio_Web-astraxproject.github.io-0a0a1a?style=flat-square)](https://astraxproject.github.io/astrax-project)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-astraxproject.github.io-0a0a1a?style=flat-square)](https://trinitytournament.github.io/Trinity-page)
 
 ---
 
-## ¿Qué es Astrax?
+## ¿Qué es Trinity?
 
-Astrax es una plataforma para fanáticos del deporte y los eSports. Un espacio donde podés seguir tus deportes favoritos, conectarte con otros usuarios y personalizar tu experiencia según tus intereses.
+Trinity es una plataforma para fanáticos del deporte y los eSports. Un espacio donde podés seguir tus deportes favoritos, conectarte con otros usuarios y personalizar tu experiencia según tus intereses.
 
 ---
 
