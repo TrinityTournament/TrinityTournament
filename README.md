@@ -22,7 +22,6 @@ Trinity es una plataforma para fanáticos del deporte y los eSports. Un espacio 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=flat-square&logo=php&logoColor=white)
 [![Baileys](https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
-[![Telegraf](https://img.shields.io/badge/Telegraf-348ceb?style=flat-square&logo=telegram&logoColor=white)](https://github.com/telegraf/telegraf)
 ---
 
 ## Equipo
